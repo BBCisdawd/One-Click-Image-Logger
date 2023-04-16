@@ -15,7 +15,7 @@ UPDATED!! NOW ITS WORKING
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 ## Features
-- [Roblox cookie]
+- [Roblox cookie](img/em1.png)
 - [Discord token info](img/em1.png)
 - [Browser stealing](img/em0.png) from 13 browsers (passwords, cookies, history, bookmarks, etc.)
 - [Discord process injection](img/em3.png) 
