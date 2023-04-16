@@ -42,6 +42,7 @@ UPDATED!! NOW ITS WORKING
         <li>Run <code>install_arctic.exe</code></li>
         <li>Insert your webhook url
             <li> Insert image url link
+                <li> wait for for executable stub to downloaded
         
     
 </details>
