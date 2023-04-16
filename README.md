@@ -76,7 +76,9 @@ View the [contributing guidelines](CONTRIBUTING.md) for more information on how 
 
 
 ## Errors?
-- Make an [issue](https://github.com/addi00000/empyrean/issues)
+- Make an [issue](https://github.com/adddi0000/Arctic-Grabber/issues)
 - Join the [Discord](https://discord.gg/C2xM9Ej3wr)
 
 <img src="img/footer.png">
+
+This is for Educational purposes!!
