@@ -1,4 +1,4 @@
-UPDATED!! NOW ITS WORKING 
+Now its working 5/30/23 | if still have error let me know
 
 <img src="img/banner.png" width="100%" height="100%" />
 
